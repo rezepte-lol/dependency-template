@@ -85,7 +85,6 @@ dependencies {
             androidTestImplementation(junitExt)
             androidTestImplementation(runner)
             androidTestUtil(orchestrator)
-            androidTestImplementation(espresso)
         }
     }
 }
