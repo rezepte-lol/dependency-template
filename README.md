@@ -1,6 +1,6 @@
 # Template for Android with Dependency Module
 
-This template follows the pattern as used within rezepte.lol
+This template follows the pattern as used within rezepte.lol 💊
 
 ## Includes
 
